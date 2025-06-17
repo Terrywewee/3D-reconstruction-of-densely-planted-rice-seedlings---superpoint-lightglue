@@ -8,6 +8,7 @@ This project includes two main parts:
 
 ---
 root/
+root/
 ├── segmentation/ # Segmentation model and mask generation
 │ ├── run_segment.py
 │ └── utils.py
@@ -19,7 +20,6 @@ root/
 ├── sparse/ # Sparse reconstruction output
 ├── dense/ # Dense reconstruction output
 └── README.md
-
 
 Step 1 Installation 
 This project requires both Python (for segmentation and feature matching) and C++ tools (COLMAP, OpenMVS) for reconstruction.
