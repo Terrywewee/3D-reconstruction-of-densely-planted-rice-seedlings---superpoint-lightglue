@@ -75,7 +75,7 @@ Use DeepLabv3+ to segment rice seedlings from background (soil, tray, etc.)
 
 ```bash
 cd segmentation/
-python predict_masks.py --input_dir ../images --output_dir ../masks --model_path deeplabv3plus_rice.pth
+python evaluation.py --input_dir ../images --output_dir ../masks 
 ```
 
 This will produce binary masks:
