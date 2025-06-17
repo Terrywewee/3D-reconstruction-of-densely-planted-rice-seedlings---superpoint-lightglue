@@ -37,11 +37,6 @@ This project requires both Python (for segmentation and matching) and C++ tools 
 - Install [COLMAP](https://colmap.github.io/)
 - Build [OpenMVS](https://github.com/cdcseacave/openMVS)
 - Install Python dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 Make sure `colmap`, and other OpenMVS tools are in your system PATH.
 
 ---
