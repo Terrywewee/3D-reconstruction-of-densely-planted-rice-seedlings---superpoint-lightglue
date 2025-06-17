@@ -3,7 +3,7 @@
 
 A modular pipeline for performing 3D reconstruction of densely planted rice seedlings.  
 This project includes two main parts:
--  Semantic segmentation of rice seedlings in RGB images.
+- Semantic segmentation of rice seedlings in RGB images.
 - - Sparse & dense 3D reconstruction using SfM/MVS.
 
 ---
